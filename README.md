@@ -3,7 +3,19 @@
 ## Project setup
 ```
 yarn install
+npm install json-server
 ```
+
+### Project launch servers
+First server
+```
+npm run dev
+```
+Second server for database
+```
+json-server --watch data/db.json
+```
+
 
 ### Compiles and hot-reloads for development
 ```

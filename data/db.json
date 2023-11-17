@@ -1,5 +1,6 @@
 {
   "jobs": [
-    {"title": "Front-end Vuejs developer", "company": "Jira Inc.", "id": 1, "details": "We are currently looking for a front-end developer to help us redefine what it means to be modern."}
+    {"title": "Front-end Vuejs developer", "company": "Jira Inc.", "id": 1, "details": "We are currently looking for a front-end developer to help us redefine what it means to be modern."},
+    {"title": "Back-end Ruby on Rails developer", "company": "Jira Inc.", "id": 2, "details": "We are currently looking for a Ruby on rails back-end developer to help us create the apps of the future. Le Wagon alumnis are welcome."}
   ]
 }

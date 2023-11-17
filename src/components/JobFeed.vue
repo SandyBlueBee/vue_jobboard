@@ -1,6 +1,8 @@
 <template>
   <h1>JOB FEED</h1>
-  <p>{{ jobs.first }}</p>
+  <div v-for="job in jobs" :key="job.id">
+    <p>{{ job.title }}</p>
+  </div>
   <JobPost />
 </template>
 
